@@ -1,3 +1,3 @@
-# ClaimEval-Novelty
+# ClaimNOVA
 
-Here is ClaimEval-Novelty's github depository
+Here is ClaimNOVA's github depository
